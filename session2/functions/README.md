@@ -1,12 +1,13 @@
 # Functions in python
 
 ###### reference documentation - 
-    - https://docs.python.org/3.7/tutorial/controlflow.html#defining-functions
-    - https://en.wikipedia.org/wiki/Modular_programming
-    - http://www.trytoprogram.com/python-programming/python-closures/
-    - https://en.wikipedia.org/wiki/Functional_programming
+- https://docs.python.org/3.7/tutorial/controlflow.html#defining-functions
+- https://en.wikipedia.org/wiki/Modular_programming
+- http://www.trytoprogram.com/python-programming/python-closures/
+- https://en.wikipedia.org/wiki/Functional_programming
 
 
+##### What are they
 - think of cooking, think of recipes that take some ingredients and then 
     - do something or 
     - create something new.
