@@ -5,6 +5,7 @@
 - https://en.wikipedia.org/wiki/Modular_programming
 - http://www.trytoprogram.com/python-programming/python-closures/
 - https://en.wikipedia.org/wiki/Functional_programming
+- https://www.python.org/dev/peps/pep-0008/
 
 
 ##### What are they
