@@ -30,16 +30,11 @@ you can refer to https://docs.python.org/3.7/library/math.html#module-math for m
 ###### 2 - Pure functiion which is a Palindrome detector.
 a function which takes in a string (word or a sentence) and returs a boolean True if the string is a pallindrome, otherwise it returns a boolean False
 e.g.
-"Anna" => True - btw, it should be case insensitive - i.e. Anna and aNNa and aNnA all are considered same.
-
-"Level" => True
-
-"Ten" => False
-
-"Redder" => True
-
-"Don't Nod" => True, ignore special non alphabet characters and white spaces.
-
+- "Anna" => True - btw, it should be case insensitive - i.e. Anna and aNNa and aNnA all are considered same.
+- "Level" => True
+- "Ten" => False
+- "Redder" => True
+- "Don't Nod" => True, ignore special non alphabet characters and white spaces.
 
 refer to https://en.wikipedia.org/wiki/Palindrome
 
