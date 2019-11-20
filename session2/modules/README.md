@@ -3,6 +3,7 @@
 ###### reference documentation - 
 - https://docs.python.org/3.7/tutorial/modules.html
 - https://en.wikipedia.org/wiki/Modular_programming
+- https://www.python.org/dev/peps/pep-0008/
  
 
 Assuming you are aware of how to play around with Python interpreter.
