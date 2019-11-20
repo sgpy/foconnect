@@ -1,5 +1,7 @@
 # Session 2
 
+##### Program Objectives
+##### Quick recap of last session
 ##### Theme - Modularity - I
 - ###### Python Packages
 - ###### Python Modules
