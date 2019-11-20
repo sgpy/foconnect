@@ -1,10 +1,11 @@
 # Modules in Python
 
 ###### reference documentation - 
-https://docs.python.org/3.7/tutorial/modules.html
-https://en.wikipedia.org/wiki/Modular_programming
+- https://docs.python.org/3.7/tutorial/modules.html
+- https://en.wikipedia.org/wiki/Modular_programming
+ 
 
-- Assuming you are aware of how to play around with Python interpreter.
+Assuming you are aware of how to play around with Python interpreter.
 REPL - Read-Eval-Print Loop - good for quick checks and experiments.
 Also good for quckly handling support queries. Not scalable for development
 of even moderate complexity.
