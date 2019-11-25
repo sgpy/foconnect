@@ -7,11 +7,9 @@
 - ###### Python Modules
 - ###### Python Functions
 
-##### Session Exercise 
+##### Session Exercise  - 80's ChatBot
 - ###### Problem Statement
-    - read fx rates from a CSV file
-    - read Local Currency positions for different books from an Excel sheet
-    - Generate CSV file with USD positions for those books.
+    - Write a command line interface(CLI) application to respond intersetingly to user inputs.    
 - ###### Session Exercise Goal
     - break down a given problem statement.
     - plan modular components - packages, modules and functions for a given problem.
