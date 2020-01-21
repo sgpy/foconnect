@@ -1,3 +1,9 @@
+if 'Vol Surface' < 'Volatility Surface':
+    print("'Vol Surface' comes earlier than 'Volatility Surface'.")
+else:
+    print("'Vol Surface' comes later than 'Volatility Surface'.")
+
+
 # In this program,
 # we check if the number is positive or
 # negative or zero and
@@ -17,18 +23,13 @@ else:
     print("Negative number")
 
 
-# In this program, we input a number
-# check if the number is positive or
-# negative or zero and display
-# an appropriate message
-# This time we use nested if
-# NOTE: if code runner is installed, you will need to right click anywhere in the editor and choose:
-# "Run Python File in Terminal"
-num = float(input("Enter a number: "))
-if num >= 0:
-    if num == 0:
-        print("Zero")
-    else:
-        print("Positive number")
-else:
-    print("Negative number")
+# The value of the expression depends on the condition checked.
+print('Positive' if num > 0 else 'Not positive')
+
+
+# Import the datetime system library and get today's date.
+# Checking whether today is Sunday/Saturday or not.
+import datetime
+my_date = datetime.date.today()
+print('Today: ', my_date)
+print('Working day.' if my_date.weekday() < 5 else 'Weekend.')

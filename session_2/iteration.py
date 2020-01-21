@@ -9,6 +9,8 @@ sum = 0
 # iterate over the list
 for val in numbers:
     sum = sum+val
+    # if sum > 30:
+    #     break
 
 # Output: The sum is 48
 print("The sum is", sum)
